@@ -1,8 +1,5 @@
-# Page settings
-
 baseURL = "http://example.org/"
-languageCode = "en"
-title = ""
+languageCode = "en-us"
 theme = "devresume"
 
 
